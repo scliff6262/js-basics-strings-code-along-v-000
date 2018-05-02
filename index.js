@@ -1,2 +1,4 @@
 // Write your code in this file!
-const currentUser = "Sean"
+let currentUser = "Sean";
+
+const
